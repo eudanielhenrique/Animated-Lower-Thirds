@@ -7,7 +7,7 @@ Terços Inferiores Animados com Painel de Controle acoplável - Ferramenta OBS
 Com esta ferramenta, você pode usar um painel de controle para adicionar e alterar seus próprios terços inferiores em tempo real. Sinta-se livre para personalizar. É necessário conhecimento básico de HTML, Javascript e CSS.
 Para comunicação entre o painel de controle e a camada do navegador, use a API BroadcastChannel.
 
-Este projeto é baseado em [terços inferiores em HTML/CSS](https://obsproject.com/forum/resources/lower-thirds-in-html-css.928/) e [terços inferiores animados com painel de controle](https://obsproject.com/forum/resources/animated-lower-thirds-with-control-panel.922/).
+Este projeto é baseado em [Lower thirds in HTML/CSS](https://obsproject.com/forum/resources/lower-thirds-in-html-css.928/), e [Animated lower thirds with control panel](https://obsproject.com/forum/resources/animated-lower-thirds-with-control-panel.922/).
 
 ![Captura de tela dos terços inferiores](https://obsproject.com/forum/attachments/screen-jpg.61515/)
 
