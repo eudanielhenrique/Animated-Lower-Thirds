@@ -38,7 +38,7 @@ Você pode encontrar todos os tutoriais em vídeo neste [Canal do YouTube](https
 
 ## Traduções
 
-[Portugues (Brasil)](https://github.com/eudanielhenrique/Animated-Lower-Thirds/tree/tradu%C3%A7%C3%A3o-pt-br)
+[Portugues (Brasil)](https://github.com/eudanielhenrique/Animated-Lower-Thirds/tree/tradu%C3%A7%C3%A3o-pt-br)</br>
 [Inglês](https://github.com/noeal-dac/Animated-Lower-Thirds)
 
 ## Contribuindo
