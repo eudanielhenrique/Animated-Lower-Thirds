@@ -1,6 +1,5 @@
-# Animado-Terços Inferiores
-
-Terços Inferiores Animados com Painel de Controle acoplável - Ferramenta OBS
+# Animated-Lower-Thirds
+Lower Thirds Animados com Painel de Controle - Ferramenta OBS
 
 ## Descrição
 
