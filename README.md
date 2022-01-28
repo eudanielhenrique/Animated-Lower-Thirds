@@ -36,13 +36,18 @@ Veja os recursos anteriores: https://youtu.be/cQ0_1GwpwB0
 
 Você pode encontrar todos os tutoriais em vídeo neste [Canal do YouTube](https://www.youtube.com/channel/UCUYiOIl-DHn8B1eRzUfDyyw)
 
+## Traduções
+
+[Portugues (Brasil)](https://github.com/eudanielhenrique/Animated-Lower-Thirds/tree/tradu%C3%A7%C3%A3o-pt-br)
+[Inglês](https://github.com/noeal-dac/Animated-Lower-Thirds)
+
 ## Contribuindo
 
 Eu sou um designer e meu conhecimento de script é pouco. Fiz esta ferramenta (Frankenststool) porque precisava dela e quero compartilhá-la. Você está convidado a melhorá-lo. Estou ciente de que muitas partes do código podem fazer qualquer especialista chorar. sinto muito :P
 
-## Traduções
+## Contribuidores
 
-Portugues (Brasil) [PR-BR]().
+<a href="https://github.com/brasilapi/cep-promise/graphs/contributors"><img src="https://contrib.rocks/image?repo=noeal-dac/Animated-Lower-Thirds /></a>
 
 ## Doações
 
