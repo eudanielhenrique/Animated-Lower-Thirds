@@ -26,7 +26,9 @@ Este projeto é baseado em [terços inferiores em HTML/CSS](https://obsproject.c
 
 ### Requisitos
 
-Infelizmente, o OBS não suporta painéis de navegador em MacOs. Funciona apenas no Windows, mas pode ser usado no Linux usando a instalação instantânea do OBS (Mais informações [aqui](https://obsproject.com/forum/threads/installation-from-snap-26-1-2-35 -gbb6b1e53f-with-most-of-the-plugins-and-features.137672/))
+Infelizmente, o OBS não suporta painéis de navegador em MacOs. Funciona apenas no Windows, mas pode ser usado no Linux usando a instalação instantânea do OBS (Para mais informações [clique aqui](https://obsproject.com/forum/threads/installation-from-snap-26-1-2-35-gbb6b1e53f-with-most-of-the-plugins-and-features.137672/))
+
+Unfortunately, OBS doesn't support browser panels on MacOs. It only works on Windows, but can be used on Linux using the snap installation of OBS (More info [here](https://obsproject.com/forum/threads/installation-from-snap-26-1-2-35-gbb6b1e53f-with-most-of-the-plugins-and-features.137672/))
 
 ## Uso
 
