@@ -47,7 +47,7 @@ Eu sou um designer e meu conhecimento de script é pouco. Fiz esta ferramenta (F
 
 ## Contribuidores
 
-<a href="https://github.com/brasilapi/cep-promise/graphs/contributors"><img src="https://contrib.rocks/image?repo=noeal-dac/Animated-Lower-Thirds /></a>
+<a href="https://github.com/brasilapi/cep-promise/graphs/contributors"><img src="https://contrib.rocks/image?repo=noeal-dac/Animated-Lower-Thirds" /></a>
 
 ## Doações
 
